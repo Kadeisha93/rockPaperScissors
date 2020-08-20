@@ -1,0 +1,48 @@
+*{
+  box-sizing:border-box;
+  font-family: "Tahoma", Arial, sans-serif;
+  text-align: center;
+  color: black;
+}
+body{
+  background-image: url("oneMore.jpg");
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 600px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+body img{
+  opacity: 0.5;
+}
+.test{
+  margin-top: 7%;
+  border: 2px solid black;
+  width: 80%;
+  background-color: rgba(255, 255, 255, 40%);
+  margin-left: 10%;
+  padding-bottom: 5%;
+}
+table.center{
+    margin-left:auto;
+    margin-right:auto;
+    border: 1px solid black;
+  }
+#rock, #paper, #scissors{
+  border-radius: 3px;
+  background: transparent;
+  color: black;
+}
+tfoot{
+  border-top: 1px solid black;
+}
+.scoreboard h2{
+  text-decoration: underline;
+}
+#status{
+  color: red;
+  font-size: 2em;
+}
+#you, #bot{
+  border-top: 2px solid black;
+}
