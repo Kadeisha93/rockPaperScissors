@@ -1,7 +1,7 @@
 # Rock Paper Scissors
 Say hello to my rock paper scissors site! Paper beats rock, rock beats scissors, and scissors beats paper. You can play and see if you can win the game against the computer.
 ## **Link to project:** https://kr-rockpaperscissors.netlify.app/
-![rockPS](jwliMock.png)
+![rockPS](rockPS.png)
 
 ## How It's Made:
 **Tech used:** HTML, CSS and JavaScript
